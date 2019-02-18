@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie rekrutacyjne", "Zadanie rekrutacyjne\Zadanie rekrutacyjne.csproj", "{3E1F118E-39B7-4800-BEF3-7CBA55E79C4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PotwierdzenieNumeruVAT", "Potwierdzenie numeru VAT\PotwierdzenieNumeruVAT.csproj", "{3471B224-A896-4B19-BE7A-0F09063B642A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3E1F118E-39B7-4800-BEF3-7CBA55E79C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3E1F118E-39B7-4800-BEF3-7CBA55E79C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3E1F118E-39B7-4800-BEF3-7CBA55E79C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3E1F118E-39B7-4800-BEF3-7CBA55E79C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3471B224-A896-4B19-BE7A-0F09063B642A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3471B224-A896-4B19-BE7A-0F09063B642A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3471B224-A896-4B19-BE7A-0F09063B642A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3471B224-A896-4B19-BE7A-0F09063B642A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
